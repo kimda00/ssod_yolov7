@@ -1,7 +1,6 @@
-##TODO
 
-1. SSOD 
+## TODO
 
-## ADD 
+Make SSOD
 
-Docker environment (recommended)
+1. SSOD ADD
